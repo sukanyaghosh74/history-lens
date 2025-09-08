@@ -1,0 +1,18 @@
+.main-layout {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2em 1em;
+}
+.hero {
+  text-align: center;
+  margin-bottom: 2em;
+}
+.sample-btn {
+  display: block;
+  margin: 1em auto 2em auto;
+  background: var(--color-primary);
+  color: #fff;
+  border-radius: var(--radius);
+  padding: 0.5em 1.5em;
+  font-size: 1.1em;
+}

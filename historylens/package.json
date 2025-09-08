@@ -1,0 +1,12 @@
+{
+  "name": "historylens",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm --prefix backend run dev\" \"npm --prefix frontend run dev\"",
+    "start": "docker-compose up --build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

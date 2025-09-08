@@ -1,0 +1,41 @@
+# HistoryLens Demo Script (2 minutes)
+
+1. **Intro (10s):**
+   - "Welcome to HistoryLens — Time Travel with Your Photos!"
+   - "Today, I'll show you how to turn any photo into a journey through time."
+
+2. **Upload or Demo Mode (15s):**
+   - "Let's start by uploading a selfie, or click 'Try sample images' for instant results."
+   - *(Click 'Try sample images')*
+   - "The app generates three variants: Ancient, Medieval, and Futuristic."
+
+3. **Gallery Tour (15s):**
+   - "Here's our original photo, and here are the era variants."
+   - *(Point to each card: Ancient, Medieval, Futuristic)*
+
+4. **Editing (20s):**
+   - "Want to get creative? Click 'Edit' on any variant."
+   - *(Click 'Edit' on Medieval)*
+   - "Let's type: 'add Roman soldiers to the background' and apply."
+   - *(Wait for edit, then show result)*
+
+5. **Compose Video (20s):**
+   - "Now, let's select our favorite images and compose a narrated slideshow."
+   - *(Select images, click 'Compose Video')*
+   - "Add a caption for narration, or leave blank for auto-summary."
+   - *(Paste: 'Through the ages, our story unfolds — from ancient times to the future!')*
+   - *(Wait for video, then play preview)*
+
+6. **Download & Share (10s):**
+   - "Download your images or video, and share your time-travel story!"
+
+7. **API Limit & Demo Mode (10s):**
+   - "If you hit an API limit, the app shows a friendly message and you can always use demo mode."
+
+8. **Outro (10s):**
+   - "That's HistoryLens — fast, fun, and ready for your next adventure!"
+
+---
+
+**Sample Narration Text for ElevenLabs:**
+> Through the ages, our story unfolds — from ancient times to the future!

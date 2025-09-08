@@ -1,0 +1,17 @@
+FROM node:18-slim
+
+# Install ffmpeg
+RUN apt-get update && apt-get install -y ffmpeg && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY backend/package.json backend/package-lock.json ./
+RUN npm install --production
+
+COPY backend/ ./
+
+# Ensure outputs and sample_data exist
+RUN mkdir -p outputs sample_data
+
+EXPOSE 5000
+CMD ["node", "server.js"]
