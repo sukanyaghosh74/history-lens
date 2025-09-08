@@ -19,7 +19,7 @@ HistoryLens is a web application that lets you travel through time with your pho
 
 1. **Clone the repo:**
    ```sh
-   git clone <your-repo-url> && cd historylens
+   git clone https://github.com/sukanyaghosh74/history-lens.git; cd historylens
    ```
 2. **Configure environment:**
    ```sh
